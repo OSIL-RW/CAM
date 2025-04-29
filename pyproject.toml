@@ -1,0 +1,17 @@
+[project]
+name = "osil-cam"
+version = "0.1.0"
+description = "Open Space Imaging Laboratory - Camera Controller Library"
+authors = [
+    {name = "Arnaud Kayonga",email = "arnauldkayonga1@gmail.com"}
+]
+license = {text = "MIT License"}
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
